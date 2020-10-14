@@ -1,0 +1,41 @@
+.head{
+    padding-inline: auto;
+    background-color: burlywood;
+    text-align: center;
+    border-color: blue;
+}
+#des{
+    text-align: left;
+}
+.text2{
+    clear: both;
+}
+h3 {
+    font-family: verdana ;
+    font-size: 40px ;
+    text-align: center ;
+
+}
+p.cntr{
+     font-family: Times New Roman;
+     font-size: 20px;
+     background-color: red;
+     border: 2px solid blue;
+     text-align: center ;
+
+}
+.cnt{
+    font-family: Times New Roman;
+     font-size: 40px;
+     border: 2px solid blue;
+     text-align:center; 
+}
+h4,a{
+    border: 2px solid blue;
+    text-align:center;
+}
+ body{
+      background-image: url("Capture.PNG");
+      background-repeat: repeat-y;
+      background-position: center;
+ }
